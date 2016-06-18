@@ -1,0 +1,2405 @@
+{
+    "modelName": "Sample",
+    "modelObjects": [
+        {
+            "ID": 0,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "endX": -12.0,
+                "endY": -17.0,
+                "endZ": -30.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -12.0,
+                "Y": -17.0,
+                "Z": -30.0,
+                "endX": -24.0,
+                "endY": -23.0,
+                "endZ": 17.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -24.0,
+                "Y": -23.0,
+                "Z": 17.0,
+                "endX": -2.0,
+                "endY": 8.0,
+                "endZ": -17.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -2.0,
+                "Y": 8.0,
+                "Z": -17.0,
+                "endX": 17.0,
+                "endY": -13.0,
+                "endZ": -25.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 17.0,
+                "Y": -13.0,
+                "Z": -25.0,
+                "endX": -21.0,
+                "endY": -12.0,
+                "endZ": 3.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -21.0,
+                "Y": -12.0,
+                "Z": 3.0,
+                "endX": 2.0,
+                "endY": 2.0,
+                "endZ": -10.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 2.0,
+                "Y": 2.0,
+                "Z": -10.0,
+                "endX": -4.0,
+                "endY": -12.0,
+                "endZ": -3.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -4.0,
+                "Y": -12.0,
+                "Z": -3.0,
+                "endX": -2.0,
+                "endY": 16.0,
+                "endZ": -29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -2.0,
+                "Y": 16.0,
+                "Z": -29.0,
+                "endX": 7.0,
+                "endY": 19.0,
+                "endZ": -19.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 7.0,
+                "Y": 19.0,
+                "Z": -19.0,
+                "endX": 20.0,
+                "endY": -28.0,
+                "endZ": 12.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 10,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 20.0,
+                "Y": -28.0,
+                "Z": 12.0,
+                "endX": -6.0,
+                "endY": -24.0,
+                "endZ": -29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 11,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -6.0,
+                "Y": -24.0,
+                "Z": -29.0,
+                "endX": -30.0,
+                "endY": 13.0,
+                "endZ": -16.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 12,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -30.0,
+                "Y": 13.0,
+                "Z": -16.0,
+                "endX": -5.0,
+                "endY": -11.0,
+                "endZ": 1.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 13,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -5.0,
+                "Y": -11.0,
+                "Z": 1.0,
+                "endX": 24.0,
+                "endY": 4.0,
+                "endZ": -3.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 14,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 24.0,
+                "Y": 4.0,
+                "Z": -3.0,
+                "endX": 24.0,
+                "endY": 8.0,
+                "endZ": 29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 15,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 24.0,
+                "Y": 8.0,
+                "Z": 29.0,
+                "endX": -23.0,
+                "endY": 18.0,
+                "endZ": 1.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 16,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -23.0,
+                "Y": 18.0,
+                "Z": 1.0,
+                "endX": 8.0,
+                "endY": 12.0,
+                "endZ": -27.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 17,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 8.0,
+                "Y": 12.0,
+                "Z": -27.0,
+                "endX": 18.0,
+                "endY": -6.0,
+                "endZ": 6.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 18,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 18.0,
+                "Y": -6.0,
+                "Z": 6.0,
+                "endX": -29.0,
+                "endY": -26.0,
+                "endZ": 14.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 19,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -29.0,
+                "Y": -26.0,
+                "Z": 14.0,
+                "endX": 29.0,
+                "endY": -23.0,
+                "endZ": 9.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 20,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 29.0,
+                "Y": -23.0,
+                "Z": 9.0,
+                "endX": 26.0,
+                "endY": -12.0,
+                "endZ": 25.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 21,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 26.0,
+                "Y": -12.0,
+                "Z": 25.0,
+                "endX": 16.0,
+                "endY": -28.0,
+                "endZ": -4.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 22,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 16.0,
+                "Y": -28.0,
+                "Z": -4.0,
+                "endX": -3.0,
+                "endY": 5.0,
+                "endZ": -15.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 23,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -3.0,
+                "Y": 5.0,
+                "Z": -15.0,
+                "endX": -16.0,
+                "endY": -24.0,
+                "endZ": -12.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 24,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -16.0,
+                "Y": -24.0,
+                "Z": -12.0,
+                "endX": -23.0,
+                "endY": -3.0,
+                "endZ": -13.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 25,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -23.0,
+                "Y": -3.0,
+                "Z": -13.0,
+                "endX": -18.0,
+                "endY": -1.0,
+                "endZ": -20.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 26,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -18.0,
+                "Y": -1.0,
+                "Z": -20.0,
+                "endX": 28.0,
+                "endY": -29.0,
+                "endZ": 0.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 27,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 28.0,
+                "Y": -29.0,
+                "Z": 0.0,
+                "endX": 29.0,
+                "endY": -24.0,
+                "endZ": -2.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 28,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 29.0,
+                "Y": -24.0,
+                "Z": -2.0,
+                "endX": -3.0,
+                "endY": 18.0,
+                "endZ": -30.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 29,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -3.0,
+                "Y": 18.0,
+                "Z": -30.0,
+                "endX": -9.0,
+                "endY": 10.0,
+                "endZ": 6.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 30,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -9.0,
+                "Y": 10.0,
+                "Z": 6.0,
+                "endX": 23.0,
+                "endY": -22.0,
+                "endZ": 23.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 31,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 23.0,
+                "Y": -22.0,
+                "Z": 23.0,
+                "endX": 28.0,
+                "endY": 1.0,
+                "endZ": 11.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 32,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 28.0,
+                "Y": 1.0,
+                "Z": 11.0,
+                "endX": 4.0,
+                "endY": 29.0,
+                "endZ": 24.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 33,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 4.0,
+                "Y": 29.0,
+                "Z": 24.0,
+                "endX": -19.0,
+                "endY": -7.0,
+                "endZ": 8.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 34,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -19.0,
+                "Y": -7.0,
+                "Z": 8.0,
+                "endX": 9.0,
+                "endY": -19.0,
+                "endZ": 17.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 35,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 9.0,
+                "Y": -19.0,
+                "Z": 17.0,
+                "endX": -11.0,
+                "endY": -18.0,
+                "endZ": -17.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 36,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -11.0,
+                "Y": -18.0,
+                "Z": -17.0,
+                "endX": -18.0,
+                "endY": -30.0,
+                "endZ": 18.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 37,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -18.0,
+                "Y": -30.0,
+                "Z": 18.0,
+                "endX": -9.0,
+                "endY": -18.0,
+                "endZ": -20.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 38,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -9.0,
+                "Y": -18.0,
+                "Z": -20.0,
+                "endX": 23.0,
+                "endY": -23.0,
+                "endZ": -4.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 39,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 23.0,
+                "Y": -23.0,
+                "Z": -4.0,
+                "endX": 7.0,
+                "endY": 3.0,
+                "endZ": 8.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 40,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 7.0,
+                "Y": 3.0,
+                "Z": 8.0,
+                "endX": -15.0,
+                "endY": 28.0,
+                "endZ": -3.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 41,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -15.0,
+                "Y": 28.0,
+                "Z": -3.0,
+                "endX": -23.0,
+                "endY": -25.0,
+                "endZ": -6.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 42,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -23.0,
+                "Y": -25.0,
+                "Z": -6.0,
+                "endX": 29.0,
+                "endY": 29.0,
+                "endZ": 5.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 43,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 29.0,
+                "Y": 29.0,
+                "Z": 5.0,
+                "endX": -27.0,
+                "endY": 22.0,
+                "endZ": 28.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 44,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -27.0,
+                "Y": 22.0,
+                "Z": 28.0,
+                "endX": -17.0,
+                "endY": -6.0,
+                "endZ": 15.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 45,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -17.0,
+                "Y": -6.0,
+                "Z": 15.0,
+                "endX": 7.0,
+                "endY": -18.0,
+                "endZ": -7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 46,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 7.0,
+                "Y": -18.0,
+                "Z": -7.0,
+                "endX": -17.0,
+                "endY": -20.0,
+                "endZ": -19.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 47,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -17.0,
+                "Y": -20.0,
+                "Z": -19.0,
+                "endX": -9.0,
+                "endY": -7.0,
+                "endZ": 0.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 48,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -9.0,
+                "Y": -7.0,
+                "Z": 0.0,
+                "endX": 19.0,
+                "endY": -3.0,
+                "endZ": -9.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 49,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 19.0,
+                "Y": -3.0,
+                "Z": -9.0,
+                "endX": -16.0,
+                "endY": -19.0,
+                "endZ": -19.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 50,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -16.0,
+                "Y": -19.0,
+                "Z": -19.0,
+                "endX": 14.0,
+                "endY": -29.0,
+                "endZ": 14.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 51,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 14.0,
+                "Y": -29.0,
+                "Z": 14.0,
+                "endX": 25.0,
+                "endY": 22.0,
+                "endZ": 16.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 52,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 25.0,
+                "Y": 22.0,
+                "Z": 16.0,
+                "endX": 23.0,
+                "endY": 6.0,
+                "endZ": 24.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 53,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 23.0,
+                "Y": 6.0,
+                "Z": 24.0,
+                "endX": -8.0,
+                "endY": 7.0,
+                "endZ": -20.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 54,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -8.0,
+                "Y": 7.0,
+                "Z": -20.0,
+                "endX": 27.0,
+                "endY": -14.0,
+                "endZ": 5.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 55,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 27.0,
+                "Y": -14.0,
+                "Z": 5.0,
+                "endX": -5.0,
+                "endY": -24.0,
+                "endZ": -14.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 56,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -5.0,
+                "Y": -24.0,
+                "Z": -14.0,
+                "endX": 21.0,
+                "endY": 1.0,
+                "endZ": 7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 57,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 21.0,
+                "Y": 1.0,
+                "Z": 7.0,
+                "endX": -6.0,
+                "endY": 24.0,
+                "endZ": 10.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 58,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -6.0,
+                "Y": 24.0,
+                "Z": 10.0,
+                "endX": -18.0,
+                "endY": 10.0,
+                "endZ": -19.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 59,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -18.0,
+                "Y": 10.0,
+                "Z": -19.0,
+                "endX": 0.0,
+                "endY": -9.0,
+                "endZ": 21.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 60,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 0.0,
+                "Y": -9.0,
+                "Z": 21.0,
+                "endX": 1.0,
+                "endY": 24.0,
+                "endZ": -5.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 61,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 1.0,
+                "Y": 24.0,
+                "Z": -5.0,
+                "endX": -12.0,
+                "endY": -11.0,
+                "endZ": 22.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 62,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -12.0,
+                "Y": -11.0,
+                "Z": 22.0,
+                "endX": 23.0,
+                "endY": 9.0,
+                "endZ": 16.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 63,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 23.0,
+                "Y": 9.0,
+                "Z": 16.0,
+                "endX": -28.0,
+                "endY": -29.0,
+                "endZ": -8.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 64,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -28.0,
+                "Y": -29.0,
+                "Z": -8.0,
+                "endX": -29.0,
+                "endY": -5.0,
+                "endZ": -19.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 65,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -29.0,
+                "Y": -5.0,
+                "Z": -19.0,
+                "endX": 3.0,
+                "endY": -21.0,
+                "endZ": 22.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 66,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 3.0,
+                "Y": -21.0,
+                "Z": 22.0,
+                "endX": 23.0,
+                "endY": 16.0,
+                "endZ": -7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 67,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 23.0,
+                "Y": 16.0,
+                "Z": -7.0,
+                "endX": 21.0,
+                "endY": -15.0,
+                "endZ": 27.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 68,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 21.0,
+                "Y": -15.0,
+                "Z": 27.0,
+                "endX": -19.0,
+                "endY": 22.0,
+                "endZ": 7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 69,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -19.0,
+                "Y": 22.0,
+                "Z": 7.0,
+                "endX": -25.0,
+                "endY": -16.0,
+                "endZ": -28.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 70,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -25.0,
+                "Y": -16.0,
+                "Z": -28.0,
+                "endX": 15.0,
+                "endY": -4.0,
+                "endZ": 29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 71,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 15.0,
+                "Y": -4.0,
+                "Z": 29.0,
+                "endX": -11.0,
+                "endY": 18.0,
+                "endZ": 5.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 72,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -11.0,
+                "Y": 18.0,
+                "Z": 5.0,
+                "endX": -14.0,
+                "endY": -13.0,
+                "endZ": -17.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 73,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -14.0,
+                "Y": -13.0,
+                "Z": -17.0,
+                "endX": -5.0,
+                "endY": 15.0,
+                "endZ": 11.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 74,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -5.0,
+                "Y": 15.0,
+                "Z": 11.0,
+                "endX": 27.0,
+                "endY": -10.0,
+                "endZ": 14.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 75,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 27.0,
+                "Y": -10.0,
+                "Z": 14.0,
+                "endX": -30.0,
+                "endY": 21.0,
+                "endZ": 3.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 76,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -30.0,
+                "Y": 21.0,
+                "Z": 3.0,
+                "endX": 15.0,
+                "endY": -8.0,
+                "endZ": -22.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 77,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 15.0,
+                "Y": -8.0,
+                "Z": -22.0,
+                "endX": 6.0,
+                "endY": -5.0,
+                "endZ": 25.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 78,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 6.0,
+                "Y": -5.0,
+                "Z": 25.0,
+                "endX": -25.0,
+                "endY": 25.0,
+                "endZ": -9.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 79,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -25.0,
+                "Y": 25.0,
+                "Z": -9.0,
+                "endX": 20.0,
+                "endY": -12.0,
+                "endZ": 16.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 80,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 20.0,
+                "Y": -12.0,
+                "Z": 16.0,
+                "endX": -10.0,
+                "endY": -13.0,
+                "endZ": -7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 81,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -10.0,
+                "Y": -13.0,
+                "Z": -7.0,
+                "endX": -7.0,
+                "endY": -16.0,
+                "endZ": 16.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 82,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -7.0,
+                "Y": -16.0,
+                "Z": 16.0,
+                "endX": 4.0,
+                "endY": 12.0,
+                "endZ": -27.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 83,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 4.0,
+                "Y": 12.0,
+                "Z": -27.0,
+                "endX": -28.0,
+                "endY": 13.0,
+                "endZ": -30.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 84,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -28.0,
+                "Y": 13.0,
+                "Z": -30.0,
+                "endX": 19.0,
+                "endY": -11.0,
+                "endZ": -11.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 85,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 19.0,
+                "Y": -11.0,
+                "Z": -11.0,
+                "endX": -25.0,
+                "endY": -7.0,
+                "endZ": -8.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 86,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -25.0,
+                "Y": -7.0,
+                "Z": -8.0,
+                "endX": -12.0,
+                "endY": 27.0,
+                "endZ": -29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 87,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -12.0,
+                "Y": 27.0,
+                "Z": -29.0,
+                "endX": -27.0,
+                "endY": 10.0,
+                "endZ": -9.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 88,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -27.0,
+                "Y": 10.0,
+                "Z": -9.0,
+                "endX": -6.0,
+                "endY": -27.0,
+                "endZ": 15.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 89,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -6.0,
+                "Y": -27.0,
+                "Z": 15.0,
+                "endX": -14.0,
+                "endY": 5.0,
+                "endZ": 26.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 90,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -14.0,
+                "Y": 5.0,
+                "Z": 26.0,
+                "endX": -11.0,
+                "endY": -10.0,
+                "endZ": 7.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 91,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -11.0,
+                "Y": -10.0,
+                "Z": 7.0,
+                "endX": 8.0,
+                "endY": -29.0,
+                "endZ": -28.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 92,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 8.0,
+                "Y": -29.0,
+                "Z": -28.0,
+                "endX": 5.0,
+                "endY": 26.0,
+                "endZ": 12.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 93,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 5.0,
+                "Y": 26.0,
+                "Z": 12.0,
+                "endX": 10.0,
+                "endY": 0.0,
+                "endZ": -26.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 94,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 10.0,
+                "Y": 0.0,
+                "Z": -26.0,
+                "endX": 6.0,
+                "endY": -22.0,
+                "endZ": -21.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 95,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 6.0,
+                "Y": -22.0,
+                "Z": -21.0,
+                "endX": -22.0,
+                "endY": -7.0,
+                "endZ": -29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 96,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": -22.0,
+                "Y": -7.0,
+                "Z": -29.0,
+                "endX": 5.0,
+                "endY": -15.0,
+                "endZ": 5.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 97,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 5.0,
+                "Y": -15.0,
+                "Z": 5.0,
+                "endX": 3.0,
+                "endY": -28.0,
+                "endZ": -29.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 98,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 3.0,
+                "Y": -28.0,
+                "Z": -29.0,
+                "endX": 15.0,
+                "endY": 11.0,
+                "endZ": 4.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        },
+        {
+            "ID": 99,
+            "objectType": "Pipe",
+            "name": "Pipe 1",
+            "description": "Pipe description",
+            "coordinates": {
+                "X": 15.0,
+                "Y": 11.0,
+                "Z": 4.0,
+                "endX": 17.0,
+                "endY": -3.0,
+                "endZ": 14.0
+            },
+            "properties": [
+                {
+                    "name": "diametr",
+                    "value": "1"
+                },
+                {
+                    "name": "marka",
+                    "value": "180"
+                }
+            ]
+        }
+    ]
+}
