@@ -13,10 +13,8 @@ public class VoidRender : MonoBehaviour {
         foreach (VoidLayer layer in layers) {
             if (layer.isVisible) {
                 layer.material.SetPass(0);
-
                 foreach (VoidTopology obj in layer.objects) {
                     GL.PushMatrix();
-                    //GL.MultMatrix(obj.matrix);
                     GL.Begin(GL.QUADS);
                     foreach (int p in obj.quads) {
                         GL.Vertex(obj.points[p]);

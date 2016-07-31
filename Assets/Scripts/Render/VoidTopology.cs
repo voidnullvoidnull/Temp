@@ -4,11 +4,11 @@ using System.Collections;
 using System.Collections.Generic;
 
 [Serializable]
-public struct VoidTopology {
+public class VoidTopology {
 
     public Vector3[] points;
     public int[] quads;
-    public Matrix4x4 matrix;
+    public virtual void Recalculate() { }
 
     public static VoidTopology operator + (VoidTopology first, VoidTopology second) {
 
@@ -24,5 +24,18 @@ public struct VoidTopology {
         resultQuads.AddRange(secondShiftedQuads);
 
         return new VoidTopology { points = resultPoints.ToArray(), quads = resultQuads.ToArray()};
+    }
+
+    public void SetTransform(Matrix4x4 matrix) {
+        Vector3[] newPoints = new Vector3[points.Length];
+        for (int i = 0; i<points.Length; i++) {
+            newPoints[i]=matrix.MultiplyPoint(points[i]);
+        }
+        points=newPoints;
+    }
+
+    public void SetTransform(Vector3 position, Vector3 rotation, Vector3 scale) {
+        Matrix4x4 matrix = Matrix4x4.TRS(position, Quaternion.Euler(rotation), scale);
+        SetTransform(matrix);
     }
 }
