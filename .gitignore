@@ -44,31 +44,6 @@ dlldata.c
 project.lock.json
 artifacts/
 
-*_i.c
-*_p.c
-*_i.h
-*.ilk
-*.meta
-*.obj
-*.pch
-*.pdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
-
 # Chutzpah Test files
 _Chutzpah*
 
@@ -243,3 +218,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Library/ShaderCache
+/Library/metadata
