@@ -4,7 +4,6 @@ using System;
 
 public class Topology : ModelObjectBase {
 
-
     int id;
     public string name;
     public string displayType;
@@ -30,11 +29,16 @@ public class Topology : ModelObjectBase {
 
     void Start() {
         Recalculate();
-        VoidRender.sharedInstance.Register("seams", topology);
         }
 
     public void Recalculate() {
-        topology = DataManager.LoadMesh(modelName);
-        topology.SetTransform(position, rotation, size);
+        StartCoroutine(SceneManager.sharedInstance.LoadModel(modelName, Callback));
         }
+
+    public void Callback(GraphicRaw mesh) {
+        topology=mesh;
+        topology.SetTransform(position, rotation, size);
+        VoidRender.sharedInstance.Register("seams", topology);
+    }
+
     }

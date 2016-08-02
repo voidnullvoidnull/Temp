@@ -2,10 +2,6 @@
  * voidnull.ru */
 
 using System;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Reflection;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -37,13 +33,30 @@ public class Model {
     /// Осуществяет распознавание типов объектов и передачу управления по обработке данных классу, ответственному за каждый конкретный тип объектов
     /// </summary>
     public void GenerateObjects() {
-        Type[] types = Assembly.GetExecutingAssembly().GetTypes();
-        var modelTypes = types.Where(t => t.BaseType == typeof(ModelObjectBase));
-
         foreach (ModelObject obj in objects) {
-            Type responsed = modelTypes.First(t => t.Name == obj.type);
-            var method = responsed.GetMethod("CreateObject");
-            method.Invoke(null, new[] { obj });
+            switch (obj.type) {
+                case "Pipe":
+                Pipe.CreateObject(obj);
+                break;
+
+                case "PipeConnection":
+                PipeConnection.CreateObject(obj);
+                break;
+
+                case "Seam":
+                Seam.CreateObject(obj);
+                break;
+
+                case "Valve":
+                Valve.CreateObject(obj);
+                break;
+
+                case "Topology":
+                Topology.CreateObject(obj);
+                break;
+
+                default: break;
             }
         }
     }
+}

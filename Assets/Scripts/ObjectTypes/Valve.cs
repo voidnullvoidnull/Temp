@@ -25,18 +25,21 @@ public class Valve : ModelObjectBase, IConnectable {
 
     void Start() {
         Recalculate();
-        VoidRender.sharedInstance.Register("seams", topology);
         }
 
     public void Recalculate() {
 
         first = GameObject.Find(firstPipeId).GetComponent<Pipe>();
         second = GameObject.Find(secondPipeId).GetComponent<Pipe>();
+        StartCoroutine(SceneManager.sharedInstance.LoadModel("valve", Callback));
+    }
 
-        Vector3 center = (second.GetStartPoint() + first.GetEndPoint()) / 2;
-        topology = DataManager.LoadMesh("valve");
+    public void Callback(GraphicRaw mesh) {
+        topology=mesh;
+        Vector3 center = (second.GetStartPoint()+first.GetEndPoint())/2;
         topology.SetTransform(center, Vector3.zero, Vector3.one);
-        }
+        VoidRender.sharedInstance.Register("seams", topology);
+    }
 
     public Vector3 GetEndPoint() {
         throw new NotImplementedException();
